@@ -1,0 +1,15 @@
+[00:00:00.877] Server  LOG      ✓ Ready in 671ms
+[00:01:36.131] Browser WARN    Image with src "http://localhost:3000/vercel.svg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[00:08:39.058] Server  ERROR   Error: ENOENT: no such file or directory, scandir '/Users/kristinnhome/Data_path/personal/kristinn-portfolio/src/app'
+[00:08:39.061] Server  ERROR    ⨯ "unhandledRejection:" Error: ENOENT: no such file or directory, scandir '/Users/kristinnhome/Data_path/personal/kristinn-portfolio/src/app'
+[00:08:39.063] Server  ERROR    ⨯ "unhandledRejection: " Error: ENOENT: no such file or directory, scandir '/Users/kristinnhome/Data_path/personal/kristinn-portfolio/src/app'
+[00:08:39.069] Server  ERROR   Error: ENOENT: no such file or directory, scandir '/Users/kristinnhome/Data_path/personal/kristinn-portfolio/src/app'
+[00:08:39.070] Server  ERROR   Error: ENOENT: no such file or directory, scandir '/Users/kristinnhome/Data_path/personal/kristinn-portfolio/src/app'
+[00:08:39.076] Server  ERROR   Error: ENOENT: no such file or directory, scandir '/Users/kristinnhome/Data_path/personal/kristinn-portfolio/src/app'
+[00:08:39.077] Server  ERROR   Error: ENOENT: no such file or directory, scandir '/Users/kristinnhome/Data_path/personal/kristinn-portfolio/src/app'
+[00:08:39.089] Server  ERROR   Error: ENOENT: no such file or directory, scandir '/Users/kristinnhome/Data_path/personal/kristinn-portfolio/src/app'
+[00:08:39.090] Server  ERROR   Error: ENOENT: no such file or directory, scandir '/Users/kristinnhome/Data_path/personal/kristinn-portfolio/src/app'
+[00:08:39.094] Server  ERROR   Error: ENOENT: no such file or directory, scandir '/Users/kristinnhome/Data_path/personal/kristinn-portfolio/src/app'
+[00:08:39.095] Server  ERROR   Error: ENOENT: no such file or directory, scandir '/Users/kristinnhome/Data_path/personal/kristinn-portfolio/src/app'
+[00:08:39.103] Server  ERROR   Error: ENOENT: no such file or directory, scandir '/Users/kristinnhome/Data_path/personal/kristinn-portfolio/src/app'
+[00:08:39.104] Server  ERROR   Error: ENOENT: no such file or directory, scandir '/Users/kristinnhome/Data_path/personal/kristinn-portfolio/src/app'
